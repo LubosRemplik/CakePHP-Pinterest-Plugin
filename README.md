@@ -20,7 +20,7 @@ Reads pinterest feed, then parses pin HTML page and saves data into database, wh
 
 1.	Use the console with your pinterest rss feed
 		
-		Console/cake Pinterest.pinterest http://pinterest.com/onidle/feed.rss
+		Console/cake Pinterest.pinterest parseRss http://pinterest.com/onidle/feed.rss
 
 1.	Include PinterestPin model wherever you need and get the data from DB
 
